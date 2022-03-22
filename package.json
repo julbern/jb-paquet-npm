@@ -1,0 +1,25 @@
+{
+  "author": "Julie Bernier",
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  },
+  "description": "",
+  "homepage": "https://github.com/julbern/jb-paquet-npm",
+  "keywords": [
+    "github",
+    "repositories",
+    "react"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "jb-paquet-npm",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:julbern/jb-paquet-npm.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "version": "1.0.1"
+}
