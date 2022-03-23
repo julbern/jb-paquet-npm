@@ -21,5 +21,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
-  "version": "1.0.1"
+  "version": "1.0.1",
+  "devDependencies": {
+    "react": "^17.0.2"
+  }
 }
